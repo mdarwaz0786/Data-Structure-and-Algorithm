@@ -8,5 +8,8 @@ function deleteElement(array, index) {
 };
 
 let newArray = deleteElement([1, 2, 3, 4, 5], 3);
-
 console.log(newArray);
+
+// output:
+// [ 1, 2, 3, 5 ]
+

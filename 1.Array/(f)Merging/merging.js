@@ -11,3 +11,6 @@ function mergeTwoArray(array1, array2, newArray) {
 
 let mergedArray = mergeTwoArray([1, 2, 3, 4, 5], [6, 7, 8, 9], []);
 console.log(mergedArray);
+
+// output:
+// [1, 2, 3, 4, 5, 6, 7, 8, 9]

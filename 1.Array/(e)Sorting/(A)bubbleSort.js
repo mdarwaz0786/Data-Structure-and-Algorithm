@@ -15,6 +15,9 @@ function bubbleSort(array) {
 const sortedArray = bubbleSort([5, 4, 3, 2, 1]);
 console.log(sortedArray);
 
+// output:
+// [ 1, 2, 3, 4, 5 ]
+
 
 
 

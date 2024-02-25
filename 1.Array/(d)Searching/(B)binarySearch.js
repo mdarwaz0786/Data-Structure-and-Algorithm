@@ -18,3 +18,6 @@ function binarySearch(array, element) {
 
 let index = binarySearch([1, 2, 3, 4, 5], 7);
 console.log(index);
+
+// output:
+// element not found

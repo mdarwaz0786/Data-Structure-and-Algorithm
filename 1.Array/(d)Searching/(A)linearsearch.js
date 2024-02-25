@@ -11,5 +11,8 @@ function linearSearch(array, element) {
 let indexNumber = linearSearch([3, 2, 5, 1, 4], 3);
 console.log(indexNumber);
 
+// output:
+// 0
+
 
 

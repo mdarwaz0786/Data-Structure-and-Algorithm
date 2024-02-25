@@ -16,3 +16,6 @@ function selectionSort(array) {
 
 const result = selectionSort([5, 4, 3, 2, 1]);
 console.log(result);
+
+// output:
+// [ 1, 2, 3, 4, 5 ]

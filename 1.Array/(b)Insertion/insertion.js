@@ -10,6 +10,9 @@ function insertElement(array, index, element) {
 let newArray = insertElement([1, 2, 3, 4, 5], 2, 6);
 console.log(newArray);
 
+// output:
+// [1, 2, 6, 3, 4, 5]
+
 
 
 

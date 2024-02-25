@@ -7,4 +7,7 @@ for (let i = 0; i < array.length / 2; i++) {
   array[array.length - i - 1] = temp;
 };
 
-console.log(array); 
+console.log(array);
+
+// output:
+// [ 5, 4, 3, 2, 1 ]
